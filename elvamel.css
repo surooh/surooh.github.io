@@ -1,0 +1,16 @@
+body {text-align:left;
+	 color:blue;
+	 background-color: black;}
+h1 {color: darkblue;
+	text-shadow: 2px 2px 5px white;
+	font-family: sans-serif;}
+h2 {color: white;}
+ .button1 {
+ 	background-color: lightgreen;
+ 	background-image: linear-gradient(green, white, green);
+ 	color: #000;
+ 	padding: 25px 50px;
+ 	border-radius: 10px;
+ 	border: 2px solid lightgreen;
+ 	cursor: cell;
+ }
